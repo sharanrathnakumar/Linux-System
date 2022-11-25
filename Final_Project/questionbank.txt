@@ -1,0 +1,40 @@
+1) First Question ?
+a: abcd
+b: efgh
+c: hijk
+d: lmno
+2) Second Question ?
+a: pqrs
+b: tuvw
+c: xyz
+d: zyx
+3) Third Question ?
+a: wvut
+b: srpq
+c: onml
+d: kjih
+4) Fourth Question ?
+a: hgfe
+b: dcba
+c: qwer
+d: tyui
+5) Fifth Question ?
+a: opas
+b: dfgh
+c: jklz
+d: zxcv
+6) Sixth Question ?
+a: bnmn
+b: bvcx
+c: zlkj
+d: hgfd
+7) Seventh Question ?
+a: poiu
+b: uytr
+c: ewqm
+d: alsk
+8) Eight Question ?
+a: dgkh
+b: qrpi
+c: edcx
+d: ijnb
